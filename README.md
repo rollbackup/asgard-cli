@@ -1,7 +1,7 @@
 asgard-cli
 ==========
 
-Console Asgard malware checker
+Console web malware scanner
 
 
 Installation
